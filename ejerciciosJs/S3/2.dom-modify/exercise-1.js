@@ -1,0 +1,1 @@
+const nuevoDiv = document.createElement('div');
