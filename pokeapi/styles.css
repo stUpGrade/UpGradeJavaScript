@@ -44,15 +44,15 @@ main {
     width: 150px;
     margin: 10px;
     padding: 10px;
-    background-color: #aa0000; /* Nuevo color de fondo más llamativo */
+    background-color: #aa0000; 
     border-radius: 10px;
     text-align: center;
-    border: 2px solid white; /* Borde blanco */
-    transition: box-shadow 0.3s; /* Transición suave para el efecto de sombreado */
+    border: 2px solid white; 
+    transition: box-shadow 0.3s; 
 }
 
 .card:hover {
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Sombra al hacer hover */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
 }
 
 .card h3, .card p, .card span {
@@ -60,5 +60,5 @@ main {
     text-shadow: -1px -1px 0 #000,  
                  1px -1px 0 #000,
                 -1px  1px 0 #000,
-                 1px  1px 0 #000; /* Borde negro */
+                 1px  1px 0 #000; 
 }
